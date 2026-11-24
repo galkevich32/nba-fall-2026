@@ -26,39 +26,37 @@ In 2021, the same year NIL was introduced, international players entering the le
 
 To run this notebook, ensure the following CSV files are in the same directory:
 
-```text
-'202627.csv'
-'202526.csv'
-'202425.csv'
-'202324.csv'
-'202223.csv'
-'202122.csv'
-'202021.csv'
-'201920.csv'
-'201819.csv'
-'201718.csv'
-'201617.csv'
-'201516.csv'
-'201415.csv'
-'201314.csv'
-'201213.csv'
-'201112.csv'
-'201011.csv'
-'200910.csv'
-'200809.csv'
-'200708.csv'
-'200607.csv'
-'200506.csv'
-'200405.csv'
-'200304.csv'
-'200203.csv'
-'200102.csv'
-'200001.csv'
-'199900.csv'
-'199899.csv'
-'199798.csv'
-'199697.csv'
-```
+- `'202627.csv'`
+- `'202526.csv'`
+- `'202425.csv'`
+- `'202324.csv'`
+- `'202223.csv'`
+- `'202122.csv'`
+- `'202021.csv'`
+- `'201920.csv'`
+- `'201819.csv'`
+- `'201718.csv'`
+- `'201617.csv'`
+- `'201516.csv'`
+- `'201415.csv'`
+- `'201314.csv'`
+- `'201213.csv'`
+- `'201112.csv'`
+- `'201011.csv'`
+- `'200910.csv'`
+- `'200809.csv'`
+- `'200708.csv'`
+- `'200607.csv'`
+- `'200506.csv'`
+- `'200405.csv'`
+- `'200304.csv'`
+- `'200203.csv'`
+- `'200102.csv'`
+- `'200001.csv'`
+- `'199900.csv'`
+- `'199899.csv'`
+- `'199798.csv'`
+- `'199697.csv'`
 
 *Note: The script also exports processed data into csv files for visualization tools like Datawrapper.
 
