@@ -24,6 +24,8 @@ In 2021, the same year NIL was introduced, international players entering the le
 
 ## Datasets Required
 
+The data for each season was manually scraped from: https://www.nba.com/stats/players/bio?dir=A&sort=COUNTRY
+
 To run this notebook, ensure the following CSV files are in the same directory:
 
 - `'202627.csv'`
